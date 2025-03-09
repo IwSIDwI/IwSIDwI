@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IwSIDwI
 - 👀 I’m interested in web design, web development
-- 🌱 I’m currently learning HTML/CSS, JavaScript, Python
+- 🌱 I’m currently learning HTML/CSS, JavaScript, Python, React
 - 📫 How to reach me? horvath.97.csaba@gmail.com
 
 <!---
